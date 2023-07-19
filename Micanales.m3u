@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @xk4neki999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1.png?resize=218%2C150&ssl=1" group-title="Ecuador", TC Mi canal 
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7ezka1YTyBCALkM_hiJkcr9sEjSu7LqBvOTTK8IfYBA)/dm/3/x7wijay/s/live-3.m3u8#cell=lnyc
 
-<!---
-xk4neki999/xk4neki999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1.png?resize=218%2C150&ssl=1" group-title="Ecuador", TC Mi canal 2
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=BlC1XLbAtli100u3QdcY_UCpLlQLXQMwah2Tn1fMuEpt0AXJ2oJ6aVGpvADWT2eW&dmTs=413946&dmV1st=b2f94cbb-5e36-48a7-872f-0c03a79222c8
+
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/teleamazonas.png" group-title="Ecuador", TeleAmazonas 
+https://v3.playerlatino.live/stream/m3u8/320
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png?resize=218%2C150&ssl=1" group-title="Ecuador", Gama Tv HD
+https://live-ak.vimeocdn.com/exp=1689761241~acl=%2Fbfc0fa36-a677-4119-aa4d-cbce2bc01cc7%2F%2A~hmac=442885cf51311bc75ceb3277ab1c9a8ccf9b4c892d602edec87e53e0e379a8be/bfc0fa36-a677-4119-aa4d-cbce2bc01cc7/hls.m3u8?min_seconds=30
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png?resize=218%2C150&ssl=1" group-title="Ecuador", Gama Tv 
+https://v3.playerlatino.live/stream/m3u8/891
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Ecuavisa-en-vivo-Online.png?resize=218%2C150&ssl=1" group-title="Ecuador", Ecuavisa 
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png?resize=218%2C150&ssl=1" group-title="Ecuador", RTU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", Oromartv 
+http://160.20.165.245:8000/play/a00t/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador", ECDF 
+https://v3.playerlatino.live/stream/m3u8/892
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", La Rosa del Tama
+https://serviskylivetk.secure.footprint.net/token=nva=1689846060~dirs=1~hash=097ca8eedf8ce0b1753fd/legacy/42341/1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", La Rosa del Tamal#¿
+https://cdn.tutelehd.sx/live/STa5246d5a155b4e7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", La Rosa del Tamal
+https://v3.playerlatino.live/stream/m3u8/891
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", La Rosa del Tamal
+https://v3.playerlatino.live/stream/m3u8/891
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="Ecuador", La Rosa del Tamal
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8/
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Ecuador", DRAGON
+https://www.dailymotion.com/embed/video/x7wijay?autoplay=1
